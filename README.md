@@ -2,7 +2,7 @@
 - 👀 I’m interested in mentors
 - 🌱 I’m currently learning frontend and kinda back
 - 💞️ I’m looking to collaborate on some sites ideas
-- 📫 How to reach me: discord - hag#7484
+- 📫 How to reach me: 
 
 <!---
 Hagonata/Hagonata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
